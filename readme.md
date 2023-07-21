@@ -1,5 +1,7 @@
 # Hand Tracking
 
+![image](https://drive.google.com/uc?export=download&id=1L6suTV8x-NRE2xN093KBGR9h3BW-M3Ts)
+
 ## Table of Contents
 
 1. [Overview](#overview)
